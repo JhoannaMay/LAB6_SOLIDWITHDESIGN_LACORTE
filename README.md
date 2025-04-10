@@ -11,4 +11,7 @@ Create a repository in your GitHub account. Put your solution there. In the read
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
+## UML
+![LAB 6_UML SOLID WITH DESIGN](https://github.com/user-attachments/assets/f2055a60-4296-498a-ae2f-04b2e9d92dc7)
+
 
